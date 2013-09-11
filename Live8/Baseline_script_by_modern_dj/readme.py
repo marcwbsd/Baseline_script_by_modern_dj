@@ -15,7 +15,7 @@ baseline_script_version_note = 'Initial Build'
 ---
 --
 -
-THIS SCRIPT IS FOR ABLETON LIVE 9 ONLY! 
+THIS SCRIPT IS FOR ABLETON LIVE 8 ONLY! 
 -
 --
 ---
